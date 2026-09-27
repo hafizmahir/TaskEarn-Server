@@ -1,0 +1,50 @@
+# TaskEarn – Micro-Task & Earning Platform
+
+A MERN Stack-based micro-tasking and earning platform where buyers can create tasks and workers can complete tasks to earn coins.
+
+## 🔐 Admin Credentials
+
+* **Admin Email:** Admin Email: admin@taskearn.com
+* **Admin Password:** admin123
+
+## 🌐 Live Site
+
+**Live URL:** https://dancing-caramel-8edac5.netlify.app/
+## ✨ Features
+
+* User registration with Worker and Buyer roles
+* Firebase Email/Password and Google authentication
+* Worker and Buyer role-based dashboards
+* Admin dashboard for platform management
+* Buyers can create and manage tasks
+* Workers can browse and complete available tasks
+* Workers can submit task proof for review
+* Buyers can approve or reject task submissions
+* Coin-based earning and payment system
+* Workers can request withdrawals
+* Buyers can purchase coins
+* Payment history for buyers
+* Notification system for important activities
+* Pagination for worker submissions
+* Responsive design for mobile, tablet, and desktop
+* Secure environment variables for sensitive credentials
+* Role-based authorization for protected API routes
+* Image uploading support for user/task images
+* Task deletion and refund functionality
+* Admin can manage users, roles, and tasks
+
+## 🛠️ Technologies Used
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* Firebase Authentication
+* Stripe
+* ImgBB
+* Tailwind CSS
+
+## 📂 Project Repositories
+
+* **Client:** https://github.com/hafizmahir/TaskEarn-Client.git
+* **Server:** https://github.com/hafizmahir/TaskEarn-Server.git
